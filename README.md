@@ -29,3 +29,6 @@ This is a dashboard that displays routes and calculates distances for the top 10
 
 - Working dataset: Airline_newID.csv can be found in the same repository
 - The Tableau workbook: mapping_Dashboard is also included in the repository
+
+![mapping](https://user-images.githubusercontent.com/60050802/75083984-fb18ac00-54ea-11ea-96ea-b41c39469237.png)
+
