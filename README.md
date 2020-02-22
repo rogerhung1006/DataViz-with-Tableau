@@ -5,7 +5,7 @@
 - Self Service Analytics Dashboard
 - Flight Route Display Dashboard
 
-## 1. Geo-spatial Analytics - Boston Crime 
+## 1. Geo-spatial Analytics - Boston Crimes
 This is a dashboard that allow me to observe when and where do all the incidence of crimes happen in Boston across different years. In this case, I put my focus on incidence of larceny, but users can always select different categories using the filter.
 
 - Working dataset can be found on Kaggle. Link is shown below: 
