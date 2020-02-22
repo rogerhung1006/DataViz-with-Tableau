@@ -14,6 +14,7 @@ https://www.kaggle.com/AnalyzeBoston/crimes-in-boston
 
 ![BostonCrime_DataViz](https://user-images.githubusercontent.com/60050802/75081368-eb926680-54dc-11ea-9737-d818a292079d.png)
 
+
 ## 2. Self Service Analytics Dashboard
 This is a dashboard in which I can easily spot all correlated indices and learn to what extent are the two indices correlated. By choosing different variables from the dropdown lists, X-axis and Y-axis, the coorelation plot in the top-left would change correspondingly.  
 
@@ -23,6 +24,7 @@ This is a dashboard in which I can easily spot all correlated indices and learn 
 
 ![Self_Service_Dashboard](https://user-images.githubusercontent.com/60050802/75082707-eb956500-54e2-11ea-80d5-f54a41fb8cd1.png)
 ![Self_Service_Dashboard2](https://user-images.githubusercontent.com/60050802/75082851-a7569480-54e3-11ea-93d4-8e582b64e5f8.png)
+
 
 ## 3. Flight Route Display Dashboard
 This is a dashboard that displays routes and calculates distances for the top 10 cities with highest numbers of flights in USA. During the project, I extracted longitude and latitude data from Tableau, used that information in conjunction with trigonometry to calculate mileage between various points, and visualized the result on a Tableau dashboard. 
