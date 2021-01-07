@@ -16,7 +16,7 @@ https://www.kaggle.com/AnalyzeBoston/crimes-in-boston
 <br>
 
 ## 2. Self Service Analytics Dashboard
-This is a dashboard in which I can easily spot all correlated indices and learn to what extent are the two indices correlated. By choosing different variables from the dropdown lists, X-axis and Y-axis, the coorelation plot in the top-left would change correspondingly.  
+This is a dashboard in which I can easily spot all correlated indices and learn to what extent are the two indices correlated. By choosing different variables from the dropdown lists, X-axis and Y-axis, the coorelation plot in the top-left would change correspondingly. I made this happend by leveraging the power of parameters and filters in Tableau. 
 
 - Working dataset: WDI.csv can be found in the same repository
 - The Tableau workbook: Self_Service_Dashboard is also included in the repository
